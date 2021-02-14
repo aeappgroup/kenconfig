@@ -223,6 +223,18 @@
             <key>category</key>
             <string>Entertainment</string>
             <key>title</key>
+            <string>Sling TV</string>
+            <key>scheme</key>
+            <string>slingtv</string>
+            <key>url</key>
+            <string>https://apps.apple.com/us/app/sling-live-tv-shows-movies/id945077360</string>
+            <key>image</key>
+            <string>https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/48/00/13/4800134c-e60d-77ec-bb71-4ba3ad4ea41f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp</string>
+        </dict>
+        <dict>
+            <key>category</key>
+            <string>Entertainment</string>
+            <key>title</key>
             <string>Disney+</string>
             <key>scheme</key>
             <string>disneyplus</string>
