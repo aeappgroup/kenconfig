@@ -110,67 +110,7 @@
             <key>image</key>
             <string>https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/6d/4f/f9/6d4ff917-8c52-accc-ee70-a43b28c77bb6/release-app-icons-1x_U007emarketing-0-10-0-0-85-220.png/1024x0w.webp</string>
         </dict>
-        <dict>
-            <key>category</key>
-            <string>News</string>
-            <key>title</key>
-            <string>Police Scanner, Fire Radio</string>
-            <key>scheme</key>
-            <string>scannerradio</string>
-            <key>url</key>
-            <string>https://apps.apple.com/us/app/police-scanner-radio-fire/id498405045</string>
-            <key>image</key>
-            <string>https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/fc/1f/e4/fc1fe499-791a-fd68-e0e5-53cc235ee51e/AppIcon-2-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp</string>
-        </dict>
-        <dict>
-            <key>category</key>
-            <string>News</string>
-            <key>title</key>
-            <string>Podbean Podcast App</string>
-            <key>scheme</key>
-            <string>podbean</string>
-            <key>url</key>
-            <string>https://apps.apple.com/us/app/podbean-podcast-app-player/id973361050</string>
-            <key>image</key>
-            <string>https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/0c/d9/c2/0cd9c29b-c907-0ecf-d951-e0b2acdc3afe/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp</string>
-        </dict>
-        <dict>
-            <key>category</key>
-            <string>News</string>
-            <key>title</key>
-            <string>CBS News</string>
-            <key>scheme</key>
-            <string>CBS</string>
-            <key>url</key>
-            <string>https://apps.apple.com/us/app/cbs-news-live-breaking-news/id334256223</string>
-            <key>image</key>
-            <string>https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/b7/da/96/b7da9606-3104-bd17-3e04-e2d13fa1a442/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp</string>
-        </dict>
-        <dict>
-            <key>category</key>
-            <string>News</string>
-            <key>title</key>
-            <string>The Podcast App</string>
-            <key>scheme</key>
-            <string>podcastapp</string>
-            <key>url</key>
-            <string>https://apps.apple.com/us/app/apple-podcasts/id525463029</string>
-            <key>image</key>
-            <string>https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/f5/01/c7/f501c751-6fbe-cf1f-3357-35d22ffb9018/AppIcon-1x_U007emarketing-0-10-0-85-220.png/1024x0w.webp</string>
-        </dict>
-        <dict>
-            <key>category</key>
-            <string>News</string>
-            <key>title</key>
-            <string>NBC News</string>
-            <key>scheme</key>
-            <string>nbcnews</string>
-            <key>url</key>
-            <string>https://apps.apple.com/us/app/nbc-news-breaking-us-news/id319740707</string>
-            <key>image</key>
-            <string>https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/f9/fe/23/f9fe2349-eeeb-fd2c-6091-749ee32c6a60/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/1024x0w.webp</string>
-            
-        </dict>
+        
         <dict>
             <key>category</key>
             <string>Entertainment</string>
@@ -195,78 +135,7 @@
             <key>image</key>
             <string>https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/52/15/77/52157776-d35c-801d-e69f-4b04cef53101/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp</string>
         </dict>
-        <dict>
-            <key>category</key>
-            <string>Entertainment</string>
-            <key>title</key>
-            <string>Netflix</string>
-            <key>scheme</key>
-            <string>nflx</string>
-            <key>url</key>
-            <string>https://apps.apple.com/us/app/netflix/id363590051</string>
-            <key>image</key>
-            <string>https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/09/b5/6d/09b56d25-c7e0-ca1b-60ff-748d74040116/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/1024x0w.webp</string>
-        </dict>
-        <dict>
-            <key>category</key>
-            <string>Entertainment</string>
-            <key>title</key>
-            <string>Hulu</string>
-            <key>scheme</key>
-            <string>hulu</string>
-            <key>url</key>
-            <string>https://apps.apple.com/us/app/hulu-stream-movies-tv-shows/id376510438</string>
-            <key>image</key>
-            <string>https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/4b/16/39/4b16393a-1e54-1d44-c8c2-865d89ff65f8/HuluAppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp</string>
-        </dict>
-        <dict>
-            <key>category</key>
-            <string>Entertainment</string>
-            <key>title</key>
-            <string>Sling TV</string>
-            <key>scheme</key>
-            <string>slingtv</string>
-            <key>url</key>
-            <string>https://apps.apple.com/us/app/sling-live-tv-shows-movies/id945077360</string>
-            <key>image</key>
-            <string>https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/48/00/13/4800134c-e60d-77ec-bb71-4ba3ad4ea41f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp</string>
-        </dict>
-        <dict>
-            <key>category</key>
-            <string>Entertainment</string>
-            <key>title</key>
-            <string>Disney+</string>
-            <key>scheme</key>
-            <string>disneyplus</string>
-            <key>url</key>
-            <string>https://apps.apple.com/us/app/disney/id1446075923</string>
-            <key>image</key>
-            <string>https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/26/0b/3d/260b3de5-f9d1-a7d0-381c-81133796418c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp</string>
-        </dict>
-        <dict>
-            <key>category</key>
-            <string>Entertainment</string>
-            <key>title</key>
-            <string>HBO Max</string>
-            <key>scheme</key>
-            <string>hbomax</string>
-            <key>url</key>
-            <string>https://apps.apple.com/us/app/hbo-max-stream-tv-movies/id971265422</string>
-            <key>image</key>
-            <string>https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/c0/03/6d/c0036d42-9b17-f8db-539f-5b064a873a88/AppIconHBOMAX-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp</string>
-        </dict>
-        <dict>
-            <key>category</key>
-            <string>Entertainment</string>
-            <key>title</key>
-            <string>Amazon Prime Video</string>
-            <key>scheme</key>
-            <string>primevideo</string>
-            <key>url</key>
-            <string>https://apps.apple.com/us/app/amazon-prime-video/id545519333</string>
-            <key>image</key>
-            <string>https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/22/94/0f/22940f98-2be7-e4fe-888a-a3cb55b10d65/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp</string>
-        </dict>
+        
         <dict>
             <key>category</key>
             <string>Entertainment</string>
@@ -622,18 +491,6 @@
             <key>category</key>
             <string>Sport</string>
             <key>title</key>
-            <string>NBA</string>
-            <key>scheme</key>
-            <string>nbatv</string>
-            <key>url</key>
-            <string>https://apps.apple.com/bg/app/nba-live-games-scores/id484672289</string>
-            <key>image</key>
-            <string>https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/2b/17/12/2b171296-402e-3988-5ce4-ae9ce38a8757/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp</string>
-        </dict>
-        <dict>
-            <key>category</key>
-            <string>Sport</string>
-            <key>title</key>
             <string>DAZN</string>
             <key>scheme</key>
             <string>com.dazn</string>
@@ -726,18 +583,6 @@
             <key>image</key>
             <string>https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/72/f3/8b/72f38b6d-f15d-4389-fcfc-90c1af8bc710/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp</string>
             
-        </dict>
-        <dict>
-            <key>category</key>
-            <string>Music</string>
-            <key>title</key>
-            <string>Spotify</string>
-            <key>scheme</key>
-            <string>spotify</string>
-            <key>url</key>
-            <string>https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580</string>
-            <key>image</key>
-            <string>https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/16/b0/e9/16b0e997-5b63-17af-597b-5694aa2dbace/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp</string>
         </dict>
         <dict>
             <key>category</key>
