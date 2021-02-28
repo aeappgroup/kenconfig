@@ -127,19 +127,6 @@
             <key>category</key>
             <string>Entertainment</string>
             <key>title</key>
-            <string>The CW</string>
-            <key>scheme</key>
-            <string>cwtv</string>
-            <key>url</key>
-            <string>https://apps.apple.com/us/app/the-cw/id491730359</string>
-            <key>image</key>
-            <string>https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/52/15/77/52157776-d35c-801d-e69f-4b04cef53101/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp</string>
-        </dict>
-        
-        <dict>
-            <key>category</key>
-            <string>Entertainment</string>
-            <key>title</key>
             <string>YouTube TV</string>
             <key>scheme</key>
             <string>youtube</string>
@@ -147,30 +134,6 @@
             <string>https://apps.apple.com/us/app/youtube-tv/id1193350206</string>
             <key>image</key>
             <string>https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/74/45/81/7445811c-763e-1912-252c-73f09f6844c1/AppIconV2-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp</string>
-        </dict>
-        <dict>
-            <key>category</key>
-            <string>Entertainment</string>
-            <key>title</key>
-            <string>Tubi</string>
-            <key>scheme</key>
-            <string>tubitv</string>
-            <key>url</key>
-            <string>https://apps.apple.com/us/app/tubi-watch-movies-tv-shows/id886445756</string>
-            <key>image</key>
-            <string>https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/55/aa/f7/55aaf73b-68fe-7d69-5411-6d388b51ce94/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp</string>
-        </dict>
-        <dict>
-            <key>category</key>
-            <string>Entertainment</string>
-            <key>title</key>
-            <string>Peacock TV</string>
-            <key>scheme</key>
-            <string>peacock</string>
-            <key>url</key>
-            <string>https://apps.apple.com/us/app/peacock-tv/id1508186374</string>
-            <key>image</key>
-            <string>https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/cd/c2/65/cdc26505-eae1-9296-f7b4-50fc5bc64e69/AppIcon-US-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x0w.webp</string>
         </dict>
         <dict>
             <key>category</key>
