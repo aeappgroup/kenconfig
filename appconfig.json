@@ -2,5 +2,6 @@
   "isShowInterstitial": true,
   "isShowSubFirst": true,
   "isPremiumContent": false,
-  "isSubscription":true
+  "isSubscription":true,
+  "isFreeAds": true
 }
