@@ -2,7 +2,7 @@
   "isShowInterstitial": true,
   "isShowSubFirst": true,
   "isPremiumContent": false,
-  "isSubscription":true,
+  "isSubscription":false,
   "isFreeAds": true,
   "secret": "70f0d36dba4f4225bd74530a213803e3",
   "videoAdsSecond": 20
