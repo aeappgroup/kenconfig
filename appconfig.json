@@ -1,9 +1,9 @@
 {
   "isShowInterstitial": true,
-  "isShowSubFirst": false,
-  "isPremiumContent": true,
-  "isSubscription":false,
+  "isShowSubFirst": true,
+  "isPremiumContent": false,
+  "isSubscription":true,
   "isFreeAds": false,
   "secret": "70f0d36dba4f4225bd74530a213803e3",
-  "videoAdsSecond": 20
+  "videoAdsSecond": 5
 }
