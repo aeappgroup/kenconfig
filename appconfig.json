@@ -3,7 +3,7 @@
   "isShowSubFirst": true,
   "isPremiumContent": false,
   "isSubscription":true,
-  "isFreeAds": false,
+  "isFreeAds": true,
   "secret": "70f0d36dba4f4225bd74530a213803e3",
-  "videoAdsSecond": 5
+  "videoAdsSecond": 15
 }
