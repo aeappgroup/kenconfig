@@ -171,6 +171,19 @@
             <string>https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/f9/fe/23/f9fe2349-eeeb-fd2c-6091-749ee32c6a60/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/100x0w.webp</string>
             
         </dict>
+                <dict>
+            <key>category</key>
+            <string>News</string>
+            <key>title</key>
+            <string>Opera News</string>
+            <key>scheme</key>
+            <string>operanews</string>
+            <key>url</key>
+            <string>https://apps.apple.com/us/app/opera-news-breaking-local/id1444253126</string>
+            <key>image</key>
+            <string>https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/04/54/33/04543315-01f9-c7c0-df81-e180757599c9/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/100x0w.webp</string>
+            
+        </dict>
         <dict>
             <key>category</key>
             <string>Entertainment</string>
