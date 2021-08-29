@@ -7,5 +7,6 @@
   "isUsingImageLocal": true,
   "secret": "70f0d36dba4f4225bd74530a213803e3",
   "videoAdsSecond": 20,
-  "isShowAlertPayment": true
+  "isShowAlertPayment": true,
+  "mirrorAppId": "632105"
 }
